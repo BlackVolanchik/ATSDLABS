@@ -1,0 +1,7 @@
+D:\oop\atsdlab4\bin\Debug\atsdlab4.exe.config
+D:\oop\atsdlab4\bin\Debug\atsdlab4.exe
+D:\oop\atsdlab4\bin\Debug\atsdlab4.pdb
+D:\oop\atsdlab4\obj\Debug\atsdlab4.csproj.AssemblyReference.cache
+D:\oop\atsdlab4\obj\Debug\atsdlab4.csproj.CoreCompileInputs.cache
+D:\oop\atsdlab4\obj\Debug\atsdlab4.exe
+D:\oop\atsdlab4\obj\Debug\atsdlab4.pdb
