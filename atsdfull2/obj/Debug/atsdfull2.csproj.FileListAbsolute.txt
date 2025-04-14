@@ -1,0 +1,7 @@
+D:\oop\atsdfull2\bin\Debug\atsdfull2.exe.config
+D:\oop\atsdfull2\bin\Debug\atsdfull2.exe
+D:\oop\atsdfull2\bin\Debug\atsdfull2.pdb
+D:\oop\atsdfull2\obj\Debug\atsdfull2.csproj.AssemblyReference.cache
+D:\oop\atsdfull2\obj\Debug\atsdfull2.csproj.CoreCompileInputs.cache
+D:\oop\atsdfull2\obj\Debug\atsdfull2.exe
+D:\oop\atsdfull2\obj\Debug\atsdfull2.pdb
